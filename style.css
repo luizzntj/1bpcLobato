@@ -1,1 +1,8 @@
-
+h1 {
+    text-align: center;
+    font-size: 25px;
+    color:rgb(0, 26, 255)
+}
+body {
+    background-color: rgb(12, 235, 235);
+}
